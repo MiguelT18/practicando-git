@@ -1,4 +1,6 @@
 #include <iostream>
+#include <cmath>
+
 using namespace std;
 void ordenarrecursivo(int a[100], int b)
 {
